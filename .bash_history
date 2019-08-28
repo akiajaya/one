@@ -1,58 +1,3 @@
-vi script8.sh
-./script8.sh
-bash script8.sh 
-vi script8.sh
-bash script8.sh 
-ls -ld /tmp/testfile
-touch /tmp/testfile
-bash script8.sh 
-ls
-touch EmptyFile
-vi script9.sh
-bash script9.sh 
-cat > EmptyFile
-bash EmptyFile 
-ls
-cd script9.sh 
-cat script9.sh
-bash  script9.sh 
-bash script9.sh 
-cat > ajay
-ls
-ls -l
-ls 
-cat ajay 
-vi ajay
-cat ajay 
-vi ajay 
-cat ajay 
-vi ajay 
-cat ajay 
-ls
-cat
-ls
-vi script10.sh
--d /tmp
-vi script10
-ls
-vi script10.sh
-bash script10.sh
-vi script10.sh 
-cat script10.sh 
-bash script10.sh 
-vi script10.sh 
-bash script10.sh 
-vi script10.sh 
-bash script10.sh 
-ls /tmp/foldertest
-cd /tmp/
-ls
-cd /~/
-cd/~/
-cd ..
-cd ~
-ls
-cd Desktop/
 ls
 cd scripts/
 ls
@@ -998,3 +943,58 @@ sudo yum install docker-ce docker-ce-cli
 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 sudo yum install docker-ce docker-ce-cli containerd.io
 sudo systemctl start docker
+which git
+ls
+cd Desktop/
+ls
+cd ..
+ls
+git status 
+git init
+git remote add origin https://github.com/akiajaya/one.git
+git config --global user.name "akiajaya"
+git config --global user.email "akiajaya1@gmail.com"
+ls
+git pull origin AWS-Server
+git pull origin master
+git branch --set=upstream-to=origin/master
+git branch --set=upstream-to=origin master
+git branch --set=upstream-to=origin 
+which git
+ls
+cd github 
+cat github 
+ls
+vi github 
+ls
+git add github 
+ls
+cat github 
+git commit -m "123"
+git push
+ls
+cat > test
+ls
+cat > test 2
+cat > test2
+ls
+mv test2 test 2
+mv test2 test.2
+ls
+git add -A
+git commit -m "Test Push"
+git push
+clear
+ls
+git checkout master
+ls
+rm -r test.2
+ls
+git push 
+ls
+git commit -m 
+git add -A
+git commit -m 
+git commit -m "RM test"
+git push 
+ls
