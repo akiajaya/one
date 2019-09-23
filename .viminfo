@@ -8,16 +8,19 @@
 # hlsearch on (H) or off (h):
 ~H
 # Last Search Pattern:
-~MSle0~/bin
+~MSle0~/ashre
 
 # Command Line History (newest to oldest):
 :wq!
 :q!
+:q
 :q1
 :!
 :wq
 
 # Search String History (newest to oldest):
+?/ashre
+?/usr/bin/python3
 ?/tmp 
 ?/bin/bash
 
@@ -28,43 +31,62 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	"Directory Created !!!
+"0	LINE	0
+	ENV APACHE_RUN_GROUP www-data
 ""1	LINE	0
-	echo -p "Hello,:  $Person"
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "2	LINE	0
-	do
 	
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "3	LINE	0
-	done
+	ENV APACHE_LOG__DIR /var/log/apache2
 "4	LINE	0
-		echo $Token
+	ENV APACHE_RUN_GROUP www-data
 "5	LINE	0
-	for Token in $*
+	ddENV APACHE_RUN_USER www-data
 "6	LINE	0
-	
+	EXPOSE 80 
 "7	LINE	0
-	
+	CMD echo "Hello World...! from my first docker image from docker file"
 "8	LINE	0
-	
+	ENV APACHE_RUN_GROUP www-data
 "9	LINE	0
-	
+	USER Akiajaya
 "-	CHAR	0
-	p
+	1
 
 # File marks:
-'0  1  28  ~/github
-'1  6  0  ~/Desktop/scripts/abc.sh
-'2  4  6  ~/Desktop/scripts/abc.sh
-'3  5  6  ~/Desktop/scripts/abc.sh
-'4  2  0  ~/Desktop/scripts/abc.sh
-'5  1  2  ~/Desktop/scripts/abc.sh
-'6  7  0  ~/Desktop/scripts/abc.sh
-'7  4  0  ~/Desktop/scripts/variables
-'8  7  0  ~/Desktop/scripts/abc.txt
-'9  6  30  ~/Desktop/PycharmProjects/pi/test.py
+'0  9  46  ~/Desktop/Dockerfile/Dockerfile
+'1  14  0  ~/Desktop/Dockerfile/Dockerfile
+'2  5  9  ~/Desktop/Dockerfile/Dockerfile
+'3  10  74  ~/Desktop/Dockerfile/Dockerfile
+'4  16  0  ~/Desktop/Dockerfile/Dockerfile
+'5  28  1  /etc/passwd
+'6  3  0  ~/Desktop/python_scripts/learn_python.py
+'7  9  15  ~/Desktop/PycharmProjects/pi/python.py
+'8  10  26  ~/Desktop/PycharmProjects/pi/python.py
+'9  5  9  ~/Desktop/PycharmProjects/pi/python.py
 
 # Jumplist (newest first):
+-'  9  46  ~/Desktop/Dockerfile/Dockerfile
+-'  14  0  ~/Desktop/Dockerfile/Dockerfile
+-'  5  0  ~/Desktop/Dockerfile/Dockerfile
+-'  10  0  ~/Desktop/Dockerfile/Dockerfile
+-'  16  0  ~/Desktop/Dockerfile/Dockerfile
+-'  1  0  ~/Desktop/Dockerfile/Dockerfile
+-'  28  1  /etc/passwd
+-'  3  0  /etc/passwd
+-'  1  0  /etc/passwd
+-'  3  0  ~/Desktop/python_scripts/learn_python.py
+-'  1  0  ~/Desktop/python_scripts/learn_python.py
+-'  9  15  ~/Desktop/PycharmProjects/pi/python.py
+-'  10  0  ~/Desktop/PycharmProjects/pi/python.py
+-'  5  0  ~/Desktop/PycharmProjects/pi/python.py
+-'  6  0  ~/Desktop/PycharmProjects/pi/python.py
+-'  1  0  ~/Desktop/PycharmProjects/pi/python.py
+-'  11  0  ~/Desktop/PycharmProjects/pi/python.py
+-'  1  0  ~/Desktop/PycharmProjects/pi/python.pi
+-'  3  43  ~/Desktop/PycharmProjects/pi/python.pi
 -'  1  28  ~/github
 -'  6  0  ~/Desktop/scripts/abc.sh
 -'  4  0  ~/Desktop/scripts/abc.sh
@@ -144,27 +166,94 @@
 -'  21  0  ~/Desktop/scripts/script3.sh
 -'  15  0  ~/Desktop/scripts/script3.sh
 -'  22  0  ~/Desktop/scripts/script3.sh
--'  10  0  ~/Desktop/scripts/script3.sh
--'  12  0  ~/Desktop/scripts/script3.sh
--'  6  1  ~/Desktop/scripts/script3.sh
--'  9  1  ~/Desktop/scripts/script2.sh
--'  7  0  ~/Desktop/scripts/script3.sh
--'  8  0  ~/Desktop/scripts/script2.sh
--'  1  0  ~/Desktop/scripts/script3.sh
--'  1  0  /tmp/folderTest1/testfile.txt
--'  6  0  ~/Desktop/scripts/script2.sh
--'  1  0  ~/Desktop/scripts/script2.sh
--'  1  0  ~/Desktop/scripts/script1.sh
--'  3  17  ~/Desktop/scripts/script.sh
--'  1  0  ~/Desktop/scripts/script.sh
--'  6  0  ~/Desktop/scripts/script.sh
--'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
--'  2  0  /etc/hostname
--'  7  0  ~/desktop/test.sh
--'  1  0  ~/desktop/test.sh
--'  9  0  ~/desktop/test
 
 # History of marks within files (newest to oldest):
+
+> ~/Desktop/Dockerfile/Dockerfile
+	"	9	46
+	^	9	47
+	.	9	46
+	+	5	18
+	+	15	0
+	+	10	70
+	+	10	0
+	+	4	0
+	+	1	10
+	+	4	0
+	+	5	96
+	+	7	29
+	+	8	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	7	0
+	+	9	36
+	+	10	6
+	+	9	0
+	+	9	0
+	+	10	0
+	+	9	0
+	+	10	8
+	+	10	45
+	+	10	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	26
+	+	9	46
+
+> /etc/passwd
+	"	28	1
+	^	24	16
+	.	28	0
+	+	24	15
+	+	28	0
+
+> ~/Desktop/python_scripts/learn_python.py
+	"	3	0
+	^	3	0
+	.	1	5
+	+	2	0
+	+	1	5
+
+> ~/Desktop/PycharmProjects/pi/python.py
+	"	9	15
+	^	9	16
+	.	9	15
+	+	10	44
+	+	10	0
+	+	1	17
+	+	10	27
+	+	6	25
+	+	10	32
+	+	6	11
+	+	10	36
+	+	6	7
+	+	10	23
+	+	6	10
+	+	5	12
+	+	6	0
+	+	10	26
+	+	5	8
+	+	3	1
+	+	3	0
+	+	3	0
+	+	4	0
+	+	5	9
+	+	6	10
+	+	10	0
+	+	5	2
+	+	9	15
+
+> ~/Desktop/PycharmProjects/pi/python.pi
+	"	1	0
+	^	3	44
+	.	3	43
+	+	1	12
+	+	3	43
 
 > ~/github
 	"	1	28
@@ -328,37 +417,3 @@
 	+	7	0
 	+	15	11
 	k	1	0
-
-> ~/Desktop/scripts/script10
-	"	1	0
-
-> ~/Desktop/scripts/script9.sh
-	"	9	1
-	^	9	2
-	.	9	1
-	+	1	21
-	+	3	25
-	+	9	1
-
-> ~/Desktop/scripts/script8.sh
-	"	10	0
-	^	10	0
-	.	9	24
-	+	13	2
-	+	9	24
-
-> ~/Desktop/scripts/script7.sh
-	"	6	0
-	^	6	2
-	.	3	20
-	+	1	3
-	+	3	35
-	+	5	0
-	+	3	20
-
-> ~/Desktop/scripts/script6.sh
-	"	2	0
-	^	2	1
-	.	1	0
-	+	4	0
-	+	1	0

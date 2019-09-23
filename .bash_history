@@ -1,715 +1,3 @@
-ls
-cd scripts/
-ls
-vi script10.sh 
-cat script10.sh 
-vi script10.sh 
-cat script10.sh 
-bash script10.sh 
-vi script10.sh 
-bash script10.sh 
-vi script10.sh 
-bash script10.sh 
-vi script10.sh 
-cd ..
-ls
-cd ..
-ls
-cd Desktop/
-ls
-cd Diary
-cat Diary
-cat> Diary
-cat Diary 
-cd scripts/
-ls
-cat script10.sh 
-bash script10.sh 
-vi script10.sh 
-bash script10.sh 
-cd ..
-ls
-cd scripts/
-ls
-touch memo
-mv Diary/memo/
-mv Diary/memo/new
-mv Diary/memo/new/
-mv Diary memo
-ls
-cd ..
-ls
-mv Diary memo
-cd memo 
-ls
-cd memo
-cat memo
-cd scripts/
-ls
-cat memo 
-ls memo
-mv memo what
-ls
-cat what
-ls
-ls -l what
-rm what
-ls
-cat EmptyFile 
-ls
-cd ..
-ls
-cd memo
-cat memo
-vi memo 
-cd //
-cd ..
-ls
-cd tmp/
-ls
-cd ..
-cd ~
-ls
- cd Desktop/
-ls
-ls -l
-cd scripts/
-ls
- root
-sudo su - 
-ls
-mkdir Xtra
-cd Xtra/
-ls
-mkdir linux
-cd linux/
-ls
-echo $SHELL
-echo $shell
-echo $SHELL
-cat > Command
-ls 
-cat Command 
-cd ..
-ls
-ifconfig
-ipconfig
-ifconfig
-ls
-hostname 
-vi hostname 
-sudo su -
-sudo vi hostname
-vi /etc/hostname
-sudo vi /etc/hostname
-hostname
-whoami
-sudo su - ashrestha
-ls
-cd Xtra
-ls
-cat linux
-cd linux
-ls
-cd Command 
-ls command
-ls
-vi Command 
-ls
-vi Command 
-rm Command 
-ls
-cd ..
-ls
-rm L
-rm linux/
-cd linux/
-cd ..
-rmdir linux
-ls
-cd ..
-ls
-rmdir Xtra
-sudo su - ashrestha
-sudo su -
-ls
-rmdir hostname
-rm hostname
-ls
-cd d
-cd Desktop/
-ls
-cd memo
-cat memo
-ifconfig
-ssh -i ubuntu@192.168.0.19
-ls
-pwd
-ls
-cd Desktop/
-ls
-cat memo
-cd scripts/
-ls
-cat ajay 
-la
-ls
- ls
-cd Desktop/
-ls
-cat memo
-cd Sc
-cd scripts/
-ls
-cat ajay 
-vi ajay 
-cat ajay 
-chown devops:devops abc abc.txt
-chown centos:centos abc abc.txt
-ls
-chown centos:centos abc ajay.txt
-chown centos:centos ajay.txt
-chown centos:centos ajay
-ls
-chmod 700 ajay
-cp ajay file
-ls
-cat file
-chown centos:centos file
-chmod 700 file
-ls
-ls-l
-ls -l
-chmod 700
-sudo su - ashrestha
-ls
-ls -l
-chmod 700 file
-ls
-ls -l file
-chmod 7 6 6 
-chmod 766 
-chmod 766 file
-ls -l
-ls -l file
-chmod 700 file
-ls - l file
-ls -l file
-touch bbc.txt abc.txt
-ls
-vi bbc.txt
-chmod 766 abc.txt
-ls -l abc.txt
-chown 700 ajay 
-sudo su -
-ls
-cat ajay
-
-ls -l file
-ls
-cat file
-ls -l
-cat EmptyFile 
-username -a
-uname -a
-top
-man top
-top
-ls 
-ls
- man grep 
-man cat
-man groups
-sudo su -
-ls
-history
-history -l
-ls -l history
-ls
-history
-ls
-history
-ls
-clear
-ls
-cd Desktop/
-ls
-cat memo 
-cd scripts/
-ls
-top
-ls
-ls -i
-ls -l
-ls
-ls -l
-ls
-logout
-ls
-logout
-ls
-cd Desktop/
-ls
-cd memo
-cat emmo
-cat memo
-ls
-cd scripts/
-ls
-ls
-cd Desktop/
-ls
-sudo su -
-ls
-cd Desktop/
-ls
-cat memo
-cd /
-ls
-cd ~
-ls
-cd ..
-ls
-cd centos/
-ls
-cd Desktop/
-history
-sudo su -
-cd ../
-cd ~
-ls
-cd ../
-ls -p
-ls 
-ls -p
-cd Desktop/
-ls -p
-cd scripts/
-ls -p
-ls -l
-nano ./file
-cd ..//..
-nano ./file
-man nano
-sudo nano ./file 
-cd ~
-cd /etc/
-ls
-nano ./file
-nano sudo ./file
-sudo su
-aws cli
-aws
-python
-man python
-history
-aws instalkl 
-aws configure
-man help 
-man --help
-man -h
-ls -l
-cd Desktop/
-ls
-cd scripts/
-ls
-la -l | grep ajay 
-ls -l | grep ajay 
-man grep
-man help 
-ls
-history
-ls
-cd Desktop/
-ls
-cd scripts/
-ls
-vi abc.txt 
-cat abc.txt 
-cat ajay 
-./script
-./script4
-./script5
-sh script
-sh script5
-sh script8
-cat script8
-ls
-cd script8
-vi script8
-cat script9
-./script9.sh
-cat script9.sh
-chmod +x script9.sh 
-cat script9.sh
-./script9.sh 
-cat script6.sh 
-./script6.sh
-ls -l
-ls- l
-ls -l
-ls
-logout
-lsblk
-clear
-lsblk -l
-ls
-cd Desktop/
-ls
-dd memo 
-dd memo /scripts
-dd memo /scripts/
-uname -a
-find -name *.sh
-cd ..
-find -name *.sh
-find -name *script
-find -name *.script
-ls
-cd Desktop/
-find -name *.script
-find -name *script
-find -iname *.script
-find -iname *script
-find -iname *script -i
-find -iname -i *script 
-ps
-ls
-cat memo
-clear
-ls
-clear
-ls
-cd scripts/
-ls
-pip3 install awscli --upgrade --user
-aws --version
-pip3 install --upgrade --user awscli
-curl -o https://bootstrap.pypa.io/get-pip.py
-curl -0 https://bootstrap.pypa.io/get-pip.py
-python get-pip.py --user
-python3 get-pip.py --user
-
-sudo su -
-aws
-pip 
-yum install epel-release
-sudo su -
-pip list | grep aws
-aws help 
-man aws
-yum update
-sudo su -
-ls
-history
-clrar
-clear
-ls
-aws
-aws -help
-aws help
-aws help ls
-ls
-clear
-aws configure
-aes help
-aws help
-man aws
-aws
-reboot
-list username 
-cd etc
-cd /etc/
-ls
-aws configure
-ls
-la
-aws ec2 run-instances --image-id ami-173d747e --count 1 --instance-type t1.micro --key-name Test1.pem --security-groups my-sg
-sudo su -
-history
-clear
-ls
-cd ..//..
-ls
-cd /home/
-ls
-cd centos/
-ls
-cd des
-cd Desktop/
-ls
-cd ..
-ls
-cd /home/
-ls
-cd /centos/Desktop
-cd /centos/Desktop/
-cd /centos
-cd /centos/
-ls
-cd centos
-ls
-cd Desktop/
-ls
-ls -ltr
-df -h
-clear
-df -h
-free
-free -g
-lscpu
-ps 
-man ps
-ps -ef |grep ssh
-clear
-ps -ef | grep ssh > /tmp/test.txt
-cd /tmp/test.txt
-sudo 
-sudo su -
-sudi sudo su -
-sudo sudi sudo su -
-sudosudo sudi sudo su -
-sudo sudosudo sudi sudo su -
-yum install bluefish
-sudo su-
-sudo su -
-ls
-cd dess
-cd Desktop/
-ls
-sudo yum upgrade
-ls
-sudo nano file
-sudo touch  file
-ls
-rm file 
-ls\
-ls
-cd Desktop/
-ls
-cd scripts/
-ls
-top
-ps sux
-ps aux
-ps aux grep lirl browser
-ps aux | grep lirl browser
-ps aux | grep liri browser
-sudo systemctl start
-systemctl
-sudo systemctl start sdump.services
-sudo systemctl star sdump.services
-grep kdump.service
-ls
-ls systemctl | grep kdump.service
-ls
-cd Desktop/
-ls
-nano
-vim
-vls
-ls
-vim 123
-ls
-rm 123
-ls
-sudo uninstall vim
-sudo remove vim
-yum remove vim
-man find
-ls
-cd Desktop/
-ls
-cd scripts/
-ls
-cat abc.txt 
-vi abc.txt 
-cat abc.txt 
-chmod 777
-chmod 777 abc.txt 
-./abc.txt 
-vi abc.txt 
-./abc.txt 
-vi abc.txt 
-./abc.txt 
-cat abc.txt 
-ls
-mkdir python_script
-cd python_script/
-ls
-pwd
-python
-clear
-python
-cd ..
-ls
-cat script3.sh 
-cat script2.sh 
-cat ajay 
-clear
-ls
-yum install git
-sudo yum install git
-sudo yum install git-extras
-cd ..//..
-ls
-ls python
-cd ..
-ls
-cd ..//..
-ls
-ls /etc/ | grep -iname pycharm
-ls /etc/ | grep  pycharm
-ls -iname /etc/ | grep pycharm
-ls -iname /etc/ | grep git
-cd etc/
-ls
-ls -l | grep git
-ls -l | grep pyhton
-ls -l
-grep python
-ls -l | grep python 
-ls -l | grep git
-
-ls -l | grep tmp
-ls -l | grep sudoers
-ls -l | grep sudo
-git --version
-ls git 
-ls git --version
-pwd git
-ls git
-tar -zxf git.tar.gz
-cd git-*
-ls /etc/git
-git
-git cnfig --global user.name "akiajaya"
-git config --global user.name "akiajaya"
-git config --global user.name "akiajaya1@gmail.com"
-git config --list
-user.name=
-user.name
-git
-man git
-git --exec-path[=<path>
-git --exec-path
-cd /usr/libexec/
-ls
-ls -l | grep git
-git-core
-cd git-core
-ls
-pwd
-history
-ls
-cd ..//..
-ls
-cd ..//..
-ls
-cd ..
-ls
-cd home/
-ls
-cd centos
-ls
-cd Desktop/
-ls
-mkdir PycharmProjects
-ls
-cd PycharmProjects/
-ls
-mkdir pi
-cd pi/
-cat > main.py
-ls
-cat main.py 
-git init
-git remote add origin https://github.com/akiajaya/python-pi.git
-git config --global user.name "akiajaya"
-git config --global user.email akiajaya1@gmail.com
-git pull
-git pull origin master
-ls
-./main.py
-chmod 777 main.py
-./main.py\
-./main.py
-git branch --set-upstream-to=origin/master
-git add ReadMe
-ls
-git add ReadMe.md
-git add README.md
-git add -A
-ls
-git commit -m "Updated readme, added main.py"
-ls
-cat README.md 
-ls
-git push
-ls
-cat >  test
-ls
-mv test test.pi
-ls
-git push
-ls
-git commit -m "Updated readme, added test.pi"
-ls
-git rm test.pi 
-rm test.pi 
-ls
-cat > test.py
-ls
-git push
-ls
-git commit -m "added test.py"
-git add test.py 
-ls
-git add -A
-git commit -m "added test.py"
-git push
-histyory
-history
-ls
-cat test.py 
-vi test.py 
-ls
-cat test.py 
-git add test.py 
-git commit -m "This is a update on previous version"
-git push
-ls
-git rm -r main.py 
-ls
-git commit -m "The file main.py has been removed"
-git push
-ls
-cat > main.py
-python
-ls
-rm main.py 
-ls
-git pwd
-ls
-cd ..
-ls
-cd ..
-ls
-cd usr/
-ls
-pwd git
-git pwd
-history
-d ..
-cd ..
-ls
-cd etc/
-ls
-cd git
-ls -l | grep git
-ls
-ls | grep git
-history
 d ..
 ls
 cd ..
@@ -998,3 +286,715 @@ git commit -m
 git commit -m "RM test"
 git push 
 ls
+cd github 
+cat github 
+cd..
+ls
+rm -r README.md 
+ls
+git push
+ls
+history
+cat > Aj
+ls
+git add Aj
+git commit -m "Final"
+git push
+ls
+cd Aj 
+cat Aj 
+git pull
+ls
+cat Aj 
+git pull
+git pull origin master
+cat Aj 
+git add -A
+git commit -m "1"
+git push
+clear
+git branch 
+git branch feature 1
+git branch feature1
+git branch 
+git branch feature1
+git checkout feature1
+ls
+cat > 6.txt
+git add .
+git commit -m "Branch TEst"
+ls
+git branch 
+git status
+git push origin feature1
+git log
+git status
+git log
+ls
+cat 6.txt 
+git branch
+ls
+sudo yum check-update
+curl -fsSL https://get.docker.com/ | sh
+sudo systemctl status docker
+clear
+sudo systemctl status docker
+docker version
+clear
+ls
+docekr 
+cleasr
+clear
+docerk image
+sdocker images
+docker images
+docekr login
+docker login
+clear
+docker login
+sudo yum update
+sudo yum install yum-utils device-mapper-persistent-data lvm2
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum install docker-ce
+systemctl status docekr
+docekr 
+which docker
+docker login
+clear
+docker login
+sudo yum install docker-ce
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+docker -v
+docker login
+clear
+docker images
+docker login
+docker run
+which docker
+docker login
+docker imgaes
+docker images
+ls
+cat pi.py 
+cd Desktop/
+ls
+cd PycharmProjects/
+ls
+cat pi/
+cd pi/
+ls
+clear
+ls
+cat test.py 
+cat > python.pi
+ls
+bash python.pi 
+ls
+cat python.pi 
+cat test.py 
+vi python.pi 
+clear
+ls
+cat test.py 
+vi python.pi 
+bash python.pi 
+vi python.pi 
+bash python.pi 
+.\p
+ls
+chmod 777
+chmod 777 python.pi 
+ls
+bash python.pi 
+cat test.py 
+ls
+cat > python.pi 
+ls
+vi python.pi 
+ls
+cat test.py 
+clear
+ls
+mv python.pi python.py
+cat test.py 
+#!/usr/bin/python3
+ls
+vi python.py 
+cat python.py 
+bash python.py 
+chmod 777 python.py 
+bash python.py 
+cat python.py 
+which python
+vi python.py 
+bash python.py 
+vi python.py 
+bash python.py 
+vi python.py 
+bash python.py 
+clear
+ls
+vi python.py 
+bash python.py 
+ls
+cd Desktop/
+ls
+cd python_scripts/
+ls
+cd ..
+ls
+cd PycharmProjects/
+ls
+cat pi/
+cd pi/
+ls
+cat python.py 
+ls
+cat test.py 
+ls
+cd Desktop/
+ls
+cd scripts/
+ls
+bash script
+bash script1
+bash script1.sh 
+./script4.sh 
+cd ..
+ls
+cd python_scripts/
+ls
+cd..quit
+ls
+cd ..
+ls
+cd PycharmProjects/
+ls
+cat pi/
+cd pi/
+ls
+./python.py 
+vi python.py 
+ls
+./python.py 
+vi python.py 
+./python.py 
+vi
+vi python.py 
+./python.py 
+vi python.py 
+./python.py 
+vi python.py 
+./python.py 
+vi python.py 
+./python.py 
+vi python.py 
+./python.py 
+vi python.py 
+./python.py 
+ls
+cd ..
+ls
+cd python_scripts/
+ls
+cd ..
+cd python_scripts/
+ls
+touch learn_python.py
+vi learn_python.py 
+which docker
+ls
+yumu pdate
+yum update
+yum install update
+sudo yum install update
+ls
+pip install boto3
+pip install --upgrade pip
+pip install update
+pip install awscli
+yum update
+sudo yum update
+pip install awscli
+sudo pip install --upgrade pip
+sudo pip install awscli
+sudo aws configure
+sudo pip install awscli
+aws configure
+pip aws configure
+sudo pip aws configure
+aws configure
+clear
+aws cli
+pip install awscli
+sudo pip install awscli
+aws configure
+sudo aws configure
+sudo awsconfigure
+sudo aws configure
+clear
+sudo aws configure
+aws configure
+aswcli configure
+aws -man
+aws -help
+-man
+man
+man aws
+man boto3
+man pip 
+man grep 
+docker 
+docker ps
+docker version
+sudo docker login
+ls
+clear
+ls
+cd \etc
+cd \etc\
+ls
+cd \\
+cd ..
+ls
+cd ..\
+cd etc\
+cd \etc\
+cd ..
+cd \etc
+ls
+cd passwd
+cat passwd
+cd /etc/group
+cd /etc
+ls g*
+cat group
+cat /etc/passwd
+vi /etc/passwd
+init s
+root
+sudo root
+clear
+sudo su-
+sudo su -
+docker version
+docker login
+docker ps
+docker images
+history
+sudo yum remove docker docker-common docker-selinux docker-engine-selinux docker-engine docker-ce
+sudo yum install -y yum-utils device-mapper-persistent-data lvm2
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum install docker-ce
+sudo systemctl enable docker.service
+docker login
+docker images
+sudo systemctl start docker.service
+docker login
+docker ps
+docker images
+docker login
+sudo systemctl restart docker.service
+sudo systemctl status docker.service
+docker images
+docker login
+docker pull centos
+docker images
+docker run -it -d centos
+docker run -it -d centos bash
+docker images
+docker ps
+4e54536a33d
+docker kill 4e54536a33d0
+docker ps
+docker kill 7acc4198ee88
+docker ps
+clear
+docker images
+docker run -it -d centos 
+docker ps
+docker exec -it 4be59a03914a bash
+sudo docker login
+docker images
+sudo docker push akiajaya\centos
+sudo docker push centos
+ls
+sudo docker push centos
+sudo docker login
+sudo docker push centos
+docker images
+docker ps
+sudo docker push centos
+docker exec -it 4be59a03914a bash 
+docker login
+docker commit 4be59a03914a aj-centos
+docker push akiajaya/aj-centos
+docker push aj-centos
+docker images
+docker push aj-centos
+docker login
+docker push aj-centos
+docker login docker.io
+docker push aj-centos
+docker push akiajaya/aj-centos
+clear
+ls
+clear
+docker images
+docker ps
+docker rmi aj-centos
+docker images
+docker ps
+docker commit 4be59a03914a akiajaya/centos
+docker images
+akiajaya/centos 
+docker akiajaya/centos 
+docker pushakiajaya/centos 
+docker push akiajaya/centos 
+clear
+docker ps
+docker kill 4be59a03914a
+docekr images
+docker images
+docker rmi centos
+docker rmi 67fa590cfc1c
+clear
+docker images
+docker rmi 67fa590cfc1c
+docker rmi -f 67fa590cfc1c
+docker ps
+docker rmi -f 67fa590cfc1c
+docker kill 67fa590cfc1c
+docker images
+docker -f rmi 67fa590cfc1c
+docker rmi -f 67fa590cfc1c
+docker images
+docker pull ubuntu
+clear
+docker ps
+docker images
+docker exec a2a15febcdf3 a2a15febcdf3
+docker images
+docker ps
+clear
+docker images
+sudo docker run a2a15febcdf3
+docekr ps
+docker ps
+docker images
+clear
+docker ps
+docker images
+sudo docker run -it -d a2a15febcdf3
+docker ps
+docker exec -it 5f7fcfc4a802
+sudo docker exec -it 5f7fcfc4a802
+sudo docker exec -it 5f7fcfc4a802 bash
+docker ps
+docker commit 5f7fcfc4a802 akiajaya/ubuntu
+docker images
+docker push akiajaya/ubuntu
+ls
+cd Desktop/
+ls
+mkdir Dockerfile
+ls
+cd Dockerfile/
+ls
+touch Dockerfile
+ls
+cat Dockerfile 
+cat > Dockerfile 
+ls
+vi Dockerfile 
+cat Dockerfile 
+docker build -t akiajaya:1.0 .
+ls
+docker images
+docker images akiajaya
+docekr ps
+docerk ps
+clerar
+clear
+docker ps
+docker images
+docker run 05e0e6f3c0ac
+docker ps
+docker run -it akiajaya /bin/bash/
+docker run -it akiajaya /bin/bash
+docker run -it akiajaya bash
+clear
+docker ps 
+docker images
+docker run 05e0e6f3c0ac
+docker ps
+docker run akiajaya
+docker login
+docker run akiajaya
+docker run 05e0e6f3c0ac
+docker ps
+clear
+docker ps
+docker images
+docker rmi akiajaya
+docker rmi 05e0e6f3c0ac
+docker rmi -f 05e0e6f3c0ac
+docker images
+ls
+cd Dockerfile 
+vi Dockerfile 
+ls
+docker build Dockerfile 
+cd ..
+docker build Dockerfile 
+clear
+docker images
+cd Dockerfile/
+cat Dockerfile 
+cd ..
+ls
+docker images
+docker rmi 11946c752b17
+docker images
+docker build -t akiajaya/ubuntutest .
+docker build -t akiajaya/ubuntutest:1.0 .
+ls
+cd Dockerfile/
+docker build -t akiajaya/ubuntutest .
+cleare
+clear
+docker ps
+docerk images
+docekr images
+docker images
+docker run 8ffd2a0ece8d
+doxker ps
+docker ps
+docker exec -it 8ffd2a0ece8d bash
+sudo docker run -it -d akiajaya/ubuntutest
+docker images
+docker ps
+clear
+docker ps
+docker images
+mv akiajaya/ubuntutest akiajaya/ubuntutest:1.0
+cd ..
+docker rmi akiajaya/ubuntutest:1.0 
+docker rmi 8ffd2a0ece8d
+docker rmi -f  8ffd2a0ece8d
+cd Dockerfile/
+vi Dockerfile 
+docker images
+cd ..
+ls
+sudo docker run -it -d akiajaya/ubuntu
+docker ps
+docker kill d7b028922b6f
+docker ps
+docker images
+docker ps
+docker kill 5f7fcfc4a802
+clear
+docker ps
+docekr images
+docker images
+docker ps
+docker images
+docker ps -a
+docker ps
+docker images
+clear
+docker images
+docker rmi myapacheimage
+docker stop myapacheimage
+docker rmi 78a963274390
+docker rmi -f 78a963274390
+docker imahes
+docker images
+ls -ltrh
+ls -lh
+ls -ltr
+ls -ltrh
+ls
+clear
+ls
+cd github 
+cat github 
+git branch
+git checkout -b
+git branch
+git checkout feature1
+git checkout master
+git checkout feature1
+ls
+mv github /Desktop/
+cd Desktop/
+ls
+cd ..
+mv github /Desktop
+mv github /Desktop/
+mv github /Desktop/git
+mv github /Desktop
+cat github 
+cd ..
+reboot
+ls
+cd Desktop/
+ls
+cd Dockerfile/
+vi Dockerfile 
+ls
+vi Dockerfile 
+sudo docker build -t myapacheimage .
+docker images
+clear
+sudo docker run -p 80:80 --name=App1 myapacheimage
+docker images
+sudo docker run -it -d myapacheimage
+docker ps
+sudo docker run -p 80:80  akiajaya/myapacheimage
+sudo docker build -t akiajaya/myapacheimage .
+docker images
+docker rmi myapacheimage
+docker images
+clear
+docker images
+docker run -it -d akiajaya/myapacheimage
+docker ps
+docker run -it akiajaya/myapacheimage
+vi Dockerfile 
+sudo docker build -t akiajaya/myapacheimage2 .
+docker images
+docker run -it akiajaya/myapacheimage2
+vi Dockerfile 
+clear
+docker images
+docker run -it akiajaya/myapache:1.0 .
+docker run -it akiajaya/myapache .
+docker build -it akiajaya/myapache:1.0 .
+docker build -it akiajaya/myapache .
+sudo docker build -t akiajaya/myapacheimage3 .
+sudo docker build -t akiajaya/myapacheimage4:1.0 .
+clear
+docker images
+docker rmi akiajaya/myapacheimage
+docker rmi -f akiajaya/myapacheimage
+docker rmi -f akiajaya/myapacheimage2 akiajaya/myapacheimage3
+clear
+docker images
+docker run -it akiajaya/myapacheimage4 bash
+docker run -it akiajaya/myapacheimage4 
+docker run 78a963274390
+docker ps
+docker run akiajaya/myapacheimage4
+docker exec -it 78a963274390
+docker exec -it akiajaya/myapacheimage4 bash
+docker exec -it akiajaya/myapacheimage4 
+clear
+docker images
+docker commit akiajaya/myapacheimage4
+sudo docker push akiajaya/myapacheimage4
+sudo docker push ubuntu
+sudo docker build -t myapacheimage:2.0 .
+docker images
+sudo docker push myapacheimage
+sudo docker push akiajaya/myapacheimage
+docker images 
+docker rmi myapacheimage
+clear
+docekr iumages
+docekr images
+docker images
+docker rmi myapacheimage
+docker rmi -f myapacheimage
+clear
+docker images
+docker kill myapacheimage
+docker rmi myapacheimage
+docker ps
+docker images
+docker pull 
+docker pull --help
+docker pull -a
+docker login
+docker pull -a
+ls
+cd Desktop/
+ls
+cat Dockerfile/
+cd Dockerfile/
+ls
+cat Dockerfile 
+clear
+ls
+cd .
+cd ..
+ls
+docekr images
+docker images
+docker ps
+docekr pull akiajaya/ubuntu
+docker pull akiajaya/ubuntu
+ls
+clear
+doceker ps
+doceker images
+docker images
+docker rmi sktop]$ db51548a03aa
+docker rmi db51548a03aa
+docker rmi -f db51548a03aa
+clear
+docker images
+docker pull akiajaya/dockerfile
+docker ps
+docker images
+docker run -it -d 717751dc1dc6
+docker ps
+docker exec -it 643d96146988 bash
+docker commit 643d96146988 akiajaya/dockerfile
+docker push akiajaya/dockerfile
+clear
+ps
+docker ps
+docker ps 643d96146988
+docker stop 643d96146988
+docker ps
+docker images
+docker rmi 717751dc1dc6
+docker rmi -f 717751dc1dc6
+docker rmi 44a72e7a2c27
+docker rmi -f 717751dc1dc6
+docker images
+docker pull akiajaya/dockerfile
+docekr images
+docker images
+docker run -it -d 44a72e7a2c27
+docker exec -it 44a72e7a2c27 bash
+docker ps
+docker exec -it 44a72e7a2c27 bash
+sudo docker exec -it 44a72e7a2c27 bash
+docker ps
+docker stop b597bcb66eaf
+docker ps
+dcoker images
+docker images
+docker run -it akiajaya/dockerfile bash
+ls
+docerk ps
+docker ps
+docker stop akiajaya/dockerfile
+clear
+docewkr ps
+docker ps
+docker ps a910be1d53aa
+docker stop a910be1d53aa
+docker ps
+docker images
+docker image prune
+docker images
+docker images prune -a
+docker images
+docker system prune
+docker images
