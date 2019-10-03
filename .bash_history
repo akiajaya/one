@@ -1,286 +1,3 @@
-d ..
-ls
-cd ..
-ls
-cd etc/
-ls
-cd git
-grep git
-ls
-history
-cd ..
-cd usr/
-ls
-cd git
-cd lib64/
-ls
-cd gi
-cd git
-history
-cd ..
-ls
-cd libexec/
-ls
-cd git-core/
-ls
-cd ..
-ls
-cd ..//..
-ls
-cd usr/
-ls
-cd cen
-cd ..
-ls
-cd home/
-ls
-cd centos/
-ls
-cd Desktop/
-ls
-cd PycharmProjects/
-ls
-find git
-find | git
-find / git
-find /git
-find \git
-find  git
-ls
-cd Desktop/
-ls
-cd scripts/
-ls
-cat abc.txt 
-./abc.txt 
-vi abc.txt 
-chmod +x abc.txt 
-./abc.txt 
-ls
-./abc.txt 
-mv abc.txt abc.sh
-ls
-./abc.sh 
-chmod 777 abc.sh 
-./abc.sh 
-ls
-bash abc.sh 
-./ abc.sh 
-./abc.sh 
-chmod 777 abc.sh 
-./abc.sh 
-bash abc.sh 
-ls
-cd EmptyFile 
-cat EmptyFile 
-cd Desktop/
-ls
-cd s
-cd scripts/
-ls
-mv EmptyFile variables
-ls
-vi variables 
-./var
-./variab
-./variable
-bash variables 
-vi variables 
-ls 
-cd DeS
-CD dE
-CD Desktop/
-cd Desktop/
-ls
-cd PycharmProjects/
-ls
-cd ..
-ls
-cd scripts/
-ls
-mv variables variables.sh
-ls
-cat file 
-cat bbc.txt 
-ls
-cat bbc.txt 
-rm bbc.txt 
-ls
-cat file
-cat ajay 
-rm ajay 
-ls
-cat abc.sh 
-vi abc.sh 
-./abc.sh 
-bash abc.sh 
-chmod 777 ./abc.sh 
-cat abc.sh 
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-bash abc.sh 
-#echo "What is your Name"
-#read Person
-#echo "Hello, $Person"
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-ls
-cat abc.sh b
-cat abc.sh
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-ls
-vi abc.sh 
-bash abc.sh 
-vi abc.sh 
-vim -r
-vim -r abc.sh 
-vi abc.sh 
-rm abc.sh.swp
-vi abc.sh 
-rm abc.sh.swp
-mv abc.sh test.sh
-ls
-vi test.sh 
-bash abc.sh 
-./ test.sh 
-cat test.sh 
-bash test.sh 
-vi test.sh 
-bash test.sh 
-vi test.sh 
-bash test.sh 
-vi test.sh 
-bash test.sh 
-vi test.sh 
-ls
-pushd /etc
-pushd /Home/
-popd
-cd ..
-ls
-cat memo
-cat > memo 
-ls
-cat memo 
-cat >
-cat > memo 
-cat memo 
-rm memo 
-ls
-cd
-ls -a
-file Desktop/
-file .gitconfig 
-pushd 
-pushd /etc/
-popd
-ls
-pushd /etc
-pwd
-popd
-ls
-cd Desktop/
-ls
-locate git
-bash locate git
-popd
-pushd
-pushd /etc/
-popd
-sudo updatedb
- which git
-which vim
-bash
-clear
-ls
-cd d
-cd Desktop/
-ls
-git add Test
-ls
-cd Desktop/
-ls
-cd PycharmProjects/
-ls
-cd ..
-which os
-pushd
-cd ..
-ls
-cd Desktop/
-ls
-mkdir python_scripts
-ls
-sudo yum install -y yum-utils device-mapper-persistent-data lvm2
-sudo yum install docker-ce docker-ce-cli containered.io
-sudo systemctl start docker
-sudo yum install docker-ce docker-ce-cli containerd.io
-sudo yum install docker-ce docker-ce-cli
-sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
-sudo yum install docker-ce docker-ce-cli containerd.io
-sudo systemctl start docker
-which git
-ls
-cd Desktop/
-ls
-cd ..
-ls
-git status 
-git init
-git remote add origin https://github.com/akiajaya/one.git
-git config --global user.name "akiajaya"
-git config --global user.email "akiajaya1@gmail.com"
-ls
-git pull origin AWS-Server
-git pull origin master
-git branch --set=upstream-to=origin/master
-git branch --set=upstream-to=origin master
-git branch --set=upstream-to=origin 
-which git
-ls
-cd github 
-cat github 
-ls
-vi github 
-ls
-git add github 
-ls
-cat github 
-git commit -m "123"
-git push
-ls
-cat > test
-ls
-cat > test 2
-cat > test2
-ls
-mv test2 test 2
-mv test2 test.2
-ls
-git add -A
-git commit -m "Test Push"
-git push
-clear
-ls
-git checkout master
-ls
-rm -r test.2
-ls
-git push 
-ls
-git commit -m 
 git add -A
 git commit -m 
 git commit -m "RM test"
@@ -998,3 +715,286 @@ docker images prune -a
 docker images
 docker system prune
 docker images
+git 
+git
+which git
+clear
+git branchname
+git branchname checkout master
+git Branchname checkout master
+clear
+git checkout master
+git checkout
+git branchname
+git checkout feature1
+git status
+ls
+cd github 
+cat github 
+git add -A
+git commit -m "Test"
+git push
+ls
+cd Desktop/
+ls
+cd PycharmProjects/
+ls
+cat pi/
+cd pi/
+ls
+touch aj
+ls
+git add -A
+git commit -m "All of it is a test"
+git push
+clear
+git push
+git commit -m "All of it is a test"
+git add -A
+git push
+clear
+docker ps -qa
+docker -qa
+docker --help
+docker -D
+docker -d
+clear
+man 
+man ls
+docker images
+docker tag akiajaya/centos:V1
+docker tag akiajaya/centos:Version1
+docker login
+docker tag akiajaya/centos:Version1
+docker tag 67fa590cfc1c akiajaya/centos:Version1
+docker tag 67fa590cfc1c akiajaya/centos:Version1.0
+clear
+docker images
+docker rmi 67fa590cfc1c
+docker rmi -f 67fa590cfc1c
+docekr images
+doceker images
+docker images
+docker rmi -f 67fa590cfc1c
+docker push akiajaya/centos:Version1
+docker push akiajaya/centos:Version1.0
+docker rmi 0c75caa08b96
+clear
+docker images
+docker rmi 67fa590cfc1c
+docker rmi -f 67fa590cfc1c
+docker images
+docker tag 39ed49e84fc9 akiajaya/ubuntu:Version1.0
+clear
+docker images
+docker push 39ed49e84fc9 akiajaya/ubuntu:Version1.0 
+docker push 39ed49e84fc9 akiajaya/ubuntu
+docker push 39ed49e84fc9 
+clear
+docekr images
+doceker images
+clear
+docker 
+clear
+docker images
+docker push akiajaya/ubuntu
+docker push akiajaya/ubuntu:Version1.0
+yum update
+sudo -su yum update
+sudo yum update
+sudo yum update -y
+man tar
+man daemon
+man snapshot
+history
+docker ps
+docker images
+docker rmi ubuntu
+docker rmi akiajaya/ubuntu 
+docker images
+docker
+docker ps
+docker-compose --version
+ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+$ docker-compose --version
+docker-compose --version
+clear
+ls
+cd Desktop/
+ls
+cd Dockerfile/
+ls
+cd ..
+mkdir compose
+cd compose/
+vi wordpress.yaml
+cat>test
+ls
+rm test
+ls
+clear
+sudo apt-get install nano
+yum install nano
+sudo yum install nano
+sudo yum install nano -y
+ls
+cd ..
+ls
+cd compose/
+ls
+nano wordpress.yaml
+clear
+ls
+cat wordpress.yaml 
+clear
+docker-compose up -d
+ls
+mv wordpress.yaml docker-compose.yaml
+ls
+docker-compose up -d
+ls
+docker images
+docker ps
+clear
+docker ps
+clear
+docker images
+docker ps
+docker exec wordpress exec -it -d bash
+ll
+docker exec wordpress -it -d bash
+docker exec -it 5a37e72cd4c9 bash
+docker commit
+docker commit akiajaya/wordpress
+clear
+docker ps
+docker commit 5a37e72cd4c9 akiajaya/wordpress
+docker push akiajaya/wordpress
+clear
+docker ps
+docker stop 5a37e72cd4c9
+docker ps
+docker imaes
+clear
+docker images
+docker rmi wordpress
+docker rmi -f wordpress
+docker images
+docker rmi mysql
+docker rmi -f mysql
+clear
+docker images
+docker commit akiajaya/wordpress:Version1
+docker images
+docker commit akiajaya/wordpress:Version1
+ls
+clear
+docker images
+docker akiajaya/wordpress akiajaya/wordpress:Version1.0
+docker tag akiajaya/wordpress akiajaya/wordpress:Version1.0
+docker images
+docker rmi akiajaya/wordpress 
+ls
+cd ..
+ls
+ls -ltrh
+clear
+docker images
+docker push akiajaya/wordpress
+docker tag akiajaya/dockerfile akiajaya/dockerfile:version1.0
+clear
+docker images
+docker rmi akiajaya/dockerfile
+docker push akiajaya/dockerfile
+clear
+docker images
+docker rmi akiajaya/ubuntu
+clear
+docker images
+docker rmi akiajaya/ubuntu
+docker rmi akiajaya/ubuntu:Version1.0
+docker images
+docker pull akiajaya/apache
+docker images
+docker tag akiajaya/apache akiajaya/apache:Version1
+docker images
+docker rmi akiajaya/apache
+docker images
+docker push akiajaya/apache
+clear
+ls
+cd Desktop/
+ls
+cd compose/
+ls
+ip -a
+if -a
+ipconfig
+ifconfig
+clear
+ifconfig
+dcoker ps
+docker ps
+clear
+docker images
+docker run akiajaya/wordpress
+docker run 8fbcecebc088
+clear
+docker ps
+docker images
+ls
+nano docker-compose.yaml
+docker swarm init
+docker swarm join --token SWMTKN-1-1vtzakb6xc9oyntetstqv8zyph6ry1lz05hlq3yup7v7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377
+ docker swarm join --token SWMTKN-1-1vtzakb6xc9oyntetstqv8                                     zyph6ry1lz05hlq3yup7v7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377 docker swarm join --token SWMTKN-1-1vtzakb6xc9oyntetstqv8                                     zyph6ry1lz05hlq3yup7v7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377
+ docker swarm join --token SWMTKN-1-1vtzakb6xc9oyntetstqv8zyph6ry1lz05hlq3yup                                     7v7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377vvvvvvv7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377
+
+clear
+ docker swarm join --token SWMTKN-1-1vtzakb6xc9oyntetstqv8zyph6ry1lz05hlq3yup                                     7v7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377vvvvvvv7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377
+docker swarm join --token SWMTKN-1-1vtzakb6xc9oyntetstqv8zyph6ry1lz05hlq3yup7v7ds1pdl-41x75glja25n3hsjzfv1e7b13 172.31.57.45:2377
+sudo docker leave
+docker leave
+docker swarm leave
+docker swarm --f leave
+docker swarm leave --force
+clear
+docker network ps
+docker node ls
+ls
+cat pi.py 
+cat > pi.py 
+cat pi.py 
+ls
+Hello Test
+Lets Start again with the learning part
+I took a break for a 8 days and I've forgotten everything.
+
+this is a test on a mac
+
+
+That took a while
+
+    Now the practice begins
+
+
+
+    This is not working
+cat > pi.py 
+cat pi.py 
+ls
+cd Desktop/
+ls
+cat Dockerfile/
+cd Dockerfile/
+ls
+cd..
+cd .
+.
+cd ..
+ls
+cd Aj 
+cd Desktop/
+ls
+cd ..
+exit

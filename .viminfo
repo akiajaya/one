@@ -11,8 +11,8 @@
 ~MSle0~/ashre
 
 # Command Line History (newest to oldest):
-:wq!
 :q!
+:wq!
 :q
 :q1
 :!
@@ -36,38 +36,38 @@
 ""1	LINE	0
 	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "2	LINE	0
-	
 	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "3	LINE	0
-	ENV APACHE_LOG__DIR /var/log/apache2
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "4	LINE	0
-	ENV APACHE_RUN_GROUP www-data
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "5	LINE	0
-	ddENV APACHE_RUN_USER www-data
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "6	LINE	0
-	EXPOSE 80 
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "7	LINE	0
-	CMD echo "Hello World...! from my first docker image from docker file"
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "8	LINE	0
-	ENV APACHE_RUN_GROUP www-data
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "9	LINE	0
-	USER Akiajaya
+	CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
 "-	CHAR	0
 	1
 
 # File marks:
-'0  9  46  ~/Desktop/Dockerfile/Dockerfile
-'1  14  0  ~/Desktop/Dockerfile/Dockerfile
-'2  5  9  ~/Desktop/Dockerfile/Dockerfile
-'3  10  74  ~/Desktop/Dockerfile/Dockerfile
-'4  16  0  ~/Desktop/Dockerfile/Dockerfile
-'5  28  1  /etc/passwd
-'6  3  0  ~/Desktop/python_scripts/learn_python.py
-'7  9  15  ~/Desktop/PycharmProjects/pi/python.py
-'8  10  26  ~/Desktop/PycharmProjects/pi/python.py
-'9  5  9  ~/Desktop/PycharmProjects/pi/python.py
+'0  1  0  ~/Desktop/compose/wordpress.yaml
+'1  9  46  ~/Desktop/Dockerfile/Dockerfile
+'2  14  0  ~/Desktop/Dockerfile/Dockerfile
+'3  5  9  ~/Desktop/Dockerfile/Dockerfile
+'4  10  74  ~/Desktop/Dockerfile/Dockerfile
+'5  16  0  ~/Desktop/Dockerfile/Dockerfile
+'6  28  1  /etc/passwd
+'7  3  0  ~/Desktop/python_scripts/learn_python.py
+'8  9  15  ~/Desktop/PycharmProjects/pi/python.py
+'9  10  26  ~/Desktop/PycharmProjects/pi/python.py
 
 # Jumplist (newest first):
+-'  1  0  ~/Desktop/compose/wordpress.yaml
 -'  9  46  ~/Desktop/Dockerfile/Dockerfile
 -'  14  0  ~/Desktop/Dockerfile/Dockerfile
 -'  5  0  ~/Desktop/Dockerfile/Dockerfile
@@ -165,9 +165,23 @@
 -'  32  0  ~/Desktop/scripts/script4.sh
 -'  21  0  ~/Desktop/scripts/script3.sh
 -'  15  0  ~/Desktop/scripts/script3.sh
--'  22  0  ~/Desktop/scripts/script3.sh
 
 # History of marks within files (newest to oldest):
+
+> ~/Desktop/compose/wordpress.yaml
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+	+	2	0
+	+	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 
 > ~/Desktop/Dockerfile/Dockerfile
 	"	9	46
@@ -386,34 +400,3 @@
 
 > ~/Desktop/memo
 	"	1	0
-
-> ~/Desktop/scripts/script10.sh
-	"	15	11
-	^	15	12
-	.	15	11
-	+	19	11
-	+	19	0
-	+	19	0
-	+	19	0
-	+	6	4
-	+	6	0
-	+	7	13
-	+	15	31
-	+	17	4
-	+	12	6
-	+	14	0
-	+	17	0
-	+	1	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	8	3
-	+	10	10
-	+	13	67
-	+	14	0
-	+	13	4
-	+	15	38
-	+	7	0
-	+	15	11
-	k	1	0
